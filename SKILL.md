@@ -26,7 +26,7 @@
 | 「企画書をConfluenceに反映して（子ページも）」 | `push -r <file>` |
 | 「同期状態を確認して」 | `status` |
 
-### Claude Code / CLI から
+### Codex / CLI から
 
 ```bash
 # 双方向同期
@@ -42,7 +42,7 @@ python3 <skill_dir>/scripts/csync.py status
 ## Architecture
 
 ```
-<skill_dir>/              # .claude/skills/csync/ (プロジェクト or $HOME)
+<skill_dir>/              # .Codex/skills/csync/ (プロジェクト or $HOME)
 ├── SKILL.md              # このファイル
 ├── README.md             # 詳細ドキュメント
 ├── .env                  # 共通認証情報（.gitignore 対象）
