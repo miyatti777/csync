@@ -1,3 +1,9 @@
+---
+name: csync
+description: "任意のConfluenceページ配下をローカルMarkdownにミラーリングし、差分同期・Push・Pullを行う汎用ツール。ConfluenceスペースをCloneしたい・Pull/Pushしたい・Markdownベースで管理したいときに使用。"
+license: "Proprietary"
+---
+
 # csync — Confluence Sync Skill
 
 任意のConfluenceページ配下をローカルMarkdownにミラーリングし、差分同期・Push・Pullを行う汎用ツール。
